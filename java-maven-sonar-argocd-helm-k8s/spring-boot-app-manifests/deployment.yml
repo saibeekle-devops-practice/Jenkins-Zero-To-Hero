@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: practicedevopssai/myrepo:replaceImageTag
+        image: practicedevopssai/myrepo:17
         ports:
         - containerPort: 8080
